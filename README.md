@@ -61,6 +61,6 @@ Joined Github **2** years ago.
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Thanks!
 
 </div>
