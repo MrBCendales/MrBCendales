@@ -18,7 +18,7 @@ Joined Github **2** years ago.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/MrBCendales/MrBCendales/issues/2)! I am happy to help.
 - 📫 &nbsp; How to reach me: bn.cendales10@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/MrBCendales/MrBCendales/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/MrBCendales/MrBCendales/blob/main/Bryan_Cendales-Resume.pdf).
 
 ### My Absolute Favorites:
 
